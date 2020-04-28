@@ -1,0 +1,5 @@
+firebase deplo{
+  "projects": {
+    "default": "burger-app-react-redux"
+  }
+}
